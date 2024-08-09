@@ -1,6 +1,6 @@
 # **MyBMI Tracker**
 
-Welcome to MyBMI Tracker, the ultimate tool for managing and monitoring your body mass index (BMI) effortlessly. Our app is designed to help you stay on top of your health and fitness goals with ease.
+Welcome to MyBMI Tracker, the ultimate tool for managing and monitoring your body mass index (BMI) effortlessly. This app is designed to help you stay on top of your health and fitness goals with ease.
 
 ## **Features**
 
