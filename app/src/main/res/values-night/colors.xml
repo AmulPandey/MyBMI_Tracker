@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="primaryColor">#4D7CF2</color>
+    <color name="backgroundColor">#090909</color>
+    <color name="backgroundColorAdditional">#000000</color>
+    <color name="backgroundColorAdditional2">#060606</color>
+    <color name="textColorInWheel">#FFFFFF</color>
+    <color name="textColor">#E8E3DF</color>
+    <color name="textColorAdditional">#D6CEC8</color>
+
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="dash_start">#007ee3e3</color>
+    <color name="dash_center">#E6000000</color>
+    <color name="dash_end">#99000000</color>
+
+    <color name="launcher_background_color" tools:targetApi="s">@android:color/system_neutral1_800</color>
+    <color name="launcher_foreground_android_color" tools:targetApi="s">@android:color/system_accent1_100</color>
+</resources>
