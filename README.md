@@ -24,6 +24,9 @@ Welcome to MyBMI Tracker, the ultimate tool for managing and monitoring your bod
 <img alt="Overview"  src="https://github.com/AmulPandey/MyBMI_Tracker/blob/main/app/src/main/assets/BMIScreenshots.jpg">
 </p>
 
+## **Preview**
+https://github.com/user-attachments/assets/199e8b48-84c7-4659-b884-0157941d55ec
+
 ## Contact
 
 * Author: Amul Pandey
